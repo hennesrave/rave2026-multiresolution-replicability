@@ -1,0 +1,11 @@
+matplotlib>=3.5
+numpy>=1.21
+scipy>=1.7
+scikit-learn>=1.0
+tqdm>=4.60
+
+# Optional: enables GPU acceleration via CUDA. If CuPy is not installed,
+# the script automatically falls back to the CPU (NumPy/SciPy) implementation.
+# Install the wheel that matches your CUDA version, e.g.:
+#   pip install cupy-cuda12x
+# cupy-cuda12x
