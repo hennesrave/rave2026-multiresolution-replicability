@@ -2,7 +2,7 @@
 
 This repository accompanies the paper:
 
-> H. Rave, V. Molchanov, Y. Tatsukawa, Q. Q. Ngo, S. Frey, T. Igarashi, and L. Linsen, "Multiresolution Density-Equalizing Transformation for Scatterplots," *IEEE Transactions on Visualization and Computer Graphics*, 2026. DOI: [10.1109/TVCG.2026.3713630](https://doi.org/10.1109/TVCG.2026.3713630)
+> H. Rave, V. Molchanov, Y. Tatsukawa, Q. Q. Ngo, S. Frey, T. Igarashi, and L. Linsen, "Multiresolution Density-Equalizing Transformation for Scatterplots," *IEEE Transactions on Visualization and Computer Graphics*, vol. 32, no. 10, pp. 8258–8272, 2026. DOI: [10.1109/TVCG.2026.3713630](https://doi.org/10.1109/TVCG.2026.3713630)
 > 
 > [![](https://www.replicabilitystamp.org/logo/Reproducibility-small.png)](http://www.replicabilitystamp.org#https-github-com-hennesrave-rave2026-multiresolution-replicability)
 > **The code in this repository has been verified and received the Graphics Replicability Stamp.**
@@ -98,6 +98,9 @@ If you use this code, please cite:
   author  = {Rave, Hennes and Molchanov, Vladimir and Tatsukawa, Yuki and Ngo, Quynh Quang and Frey, Steffen and Igarashi, Takeo and Linsen, Lars},
   year    = {2026},
   journal = {IEEE Transactions on Visualization and Computer Graphics},
+  volume  = {32},
+  number  = {10},
+  pages   = {8258--8272},
   doi     = {10.1109/TVCG.2026.3713630}
 }
 ```
